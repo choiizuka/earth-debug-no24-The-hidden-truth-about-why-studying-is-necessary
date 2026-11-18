@@ -84,6 +84,7 @@ Truth-Philosophy	：	https://choiizuka.com/truth-philosophy/
 ## 関連ログ
 
 - AIBBS:https://choiizuka.com/aibbs/chatlog/20261118-120231-41bbc3d3.html
+- PLAYGROUND:https://choiizuka.com/playgrounds/earth-debug-24-gavan-and-purpose-of-study.php
 
 
 ---
