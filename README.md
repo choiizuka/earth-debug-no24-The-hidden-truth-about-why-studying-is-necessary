@@ -71,6 +71,14 @@ Truth-Science代表 Toshihide.Choiizuka
 この目的のために、今年オレは。既存の概念をそのまま採用することを一切捨てることにし、０から自分で考えた概念を定義し直すために始めたのがTruth-Science(真・科学）とTruth-Philosophy(真・哲学）である。
 
 詳しくはホームページを見てください。
+
+Truth-Science	：	https://truth-science.org/
+
+Truth-Philosophy	：	https://choiizuka.com/truth-philosophy/
+
+      (のちにhttps://truth-science.org/truth-philosophy/)
+
+
 ---
 
 ## 関連ログ
